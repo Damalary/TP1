@@ -106,13 +106,13 @@ body {
     vertical-align: middle;
 }
 
-#robertDowneyJr { background-image: url('/image/Robert_Downey_Jr..png'); }
-#chrisEvans { background-image: url('/image/Chris_Evans.png'); }
-#chrisHemsworth { background-image: url('/image/Chris_Hemsworth.png'); }
-#scarlettJohansson { background-image: url('/image/Scarlett_Johansson.png'); }
-#markRuffalo { background-image: url('/image/Mark_Ruffalo.png'); }
-#jeremyRenner { background-image: url('/image/Jeremy_Renner.png'); }
-#TomHiddleston { background-image: url('/image/Tom_Hiddleston.png'); }
+#robertDowneyJr { background-image: url('../image/Robert_Downey_Jr..png'); }
+#chrisEvans { background-image: url('../image/Chris_Evans.png'); }
+#chrisHemsworth { background-image: url('../image/Chris_Hemsworth.png'); }
+#scarlettJohansson { background-image: url('../image/Scarlett_Johansson.png'); }
+#markRuffalo { background-image: url('../image/Mark_Ruffalo.png'); }
+#jeremyRenner { background-image: url('../image/Jeremy_Renner.png'); }
+#TomHiddleston { background-image: url('../image/Tom_Hiddleston.png'); }
 
 a img.afficheFilm {
     border: none;
